@@ -1,0 +1,12 @@
+A* search is one of the best and popular technique used to find path and graph traversal.
+
+In this project we consider the heuristic distance to be the eulerian path( i.e min distance between two nodes)
+
+min heap or priority queue is used here.
+
+IN THE PROJECT
+first click --> starting node orange in color
+second click --> ending node blue in color
+then furthur click will form the barrier
+after that press SPACE button to start the search 
+then press C button to reset the grid
